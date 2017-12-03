@@ -19,7 +19,7 @@ function dec(a){
 function makeInt(a){
  parseInt(a) 
  parseInt(10)
- parseInt(nonsense)
+ parseInt('nonsense!')
  return parseInt(a)
 }
 function preserveDecimal(a){
